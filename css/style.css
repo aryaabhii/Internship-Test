@@ -436,7 +436,7 @@ About
   }
   #about .about-img img {
     margin-left: 0;
-    padding-bottom: 30px;
+    padding-bottom: 0px;
   }
 }
 
