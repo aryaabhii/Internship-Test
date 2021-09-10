@@ -434,6 +434,9 @@ About
 @media (max-width: 768px) {
   #about .about-img {
     height: auto;
+	  margin-left: 0;
+    padding-bottom: 0;
+	  margin-bottom: 30px;
   }
   #about .about-img img {
     margin-left: 0;
